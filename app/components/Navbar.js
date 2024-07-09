@@ -6,10 +6,7 @@ export default function Navbar() {
     <>
       <nav className="flex items-center justify-between bg-white py-5 px-10">
         <div className="flex items-center">
-          <div className="mr-2 ">
-            <img src="" className="" alt="" />
-          </div>
-          <div >
+        <div >
             <span className="font-semibold text-xl tracking-wide ml-1">
               RAD
             </span>
