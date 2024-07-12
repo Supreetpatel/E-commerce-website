@@ -7,7 +7,7 @@ export default function Features(){
             <h1 className="text-3xl font-medium">Features</h1>
             <p className="text-gray-600 leading-normal"><span className="mr-40"></span><span></span></p>
             <div className="mt-10">
-                <button className="px-4 py-3 text-black rounded-full text-sm border-[1.5px] border-[#D9D9D9] bg-white hover:bg-gray-100">EXPLORE NOW</button>
+                <button className="px-4 py-3 text-gray-500 text-sm border-[1.5px] border-[#D9D9D9] bg-white hover:bg-gray-100 shadow-md">Shop all Favourites</button>
             </div>
         </div>
         <div className="flex justify-center mt-12">
