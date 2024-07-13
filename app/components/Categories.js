@@ -23,7 +23,7 @@ export default function Categories(){
             </div>
             <div className="mt-5">
                 <h2 className="flex justify-center items-center text-2xl font-serif text-gray-700">Love and work are to people what water and </h2>
-                <h2 className="flex justify-center items-center text-2xl font-serif text-gray-700">sunlight are to plants . </h2>
+                <h2 className="flex justify-center items-center text-2xl font-serif text-gray-700">sunlight are to plants</h2>
             </div>
             </div>
         </>

@@ -11,7 +11,7 @@ export default function Hero() {
       </div>
     </div>
     <div className="flex justify-center mt-12">
-    <img src="/image.jpeg" className="xl:absolute bottom-10 right-10 h-[460px] w-[450px]"/>
+    <img src="Hero.jpeg" className="xl:absolute bottom-10 right-10 h-[460px] w-[450px]"/>
     </div>
   </>
   );
