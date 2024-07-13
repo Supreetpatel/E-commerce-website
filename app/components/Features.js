@@ -11,10 +11,7 @@ export default function Features(){
                 <button className="px-4 py-3 text-gray-500 text-sm border-[1.5px] border-[#D9D9D9] bg-white hover:bg-gray-100 shadow-md">Shop all Favourites</button>
             </div>
         </div>
-        <div className="">
-            <img src="" className=""/>
-            <img src="" className=""/>
-        </div>  
+        
         </>
     );
 }
