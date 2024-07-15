@@ -7,7 +7,7 @@ export default function Features(){
             <h1 className="text-3xl font-medium">Featured</h1>
             <span className="text-gray-600 leading-normal mt-3 text-sm"><p className="mr-40">Our plants are 100% organic,</p><p className="mr-40">we don't use pesticides or</p><p className="mr-40">harmful chemicals.</p></span>
             <span className="text-gray-600 leading-normal mt-3 text-sm"><p className="mr-40">But please don't eat them</p></span>
-            <div className="mt-10">
+            <div className="mt-7">
                 <button className="px-4 py-3 text-gray-500 text-sm border-[1.5px] border-[#D9D9D9] bg-white hover:bg-gray-100 shadow-md">Shop all Favourites</button>
             </div>
         </div>
